@@ -1,0 +1,23 @@
+Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)
+
+⭐️ Course Contents ⭐️
+1) - Introduction to the Course and Outline
+2) - The Basics of Programming
+3) - Why Python
+4) - How to Install Anaconda and Python
+5) - How to Launch a Jupyter Notebook
+6) - How to Code in the iPython Shell
+7) - Variables and Operators in Python
+8) - Booleans and Comparisons in Python
+9) - Other Useful Python Functions
+10) - Control Flow in Python
+11) - Functions in Python
+12) - Modules in Python
+13) - Strings in Python
+14) - Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+15) - The NumPy Python Data Science Library
+16) - The Pandas Python Data Science Python Library
+17) - The Matplotlib Python Data Science Library
+18) -Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+course_link: https://www.youtube.com/watch?v=LHBE6Q9XlzI
